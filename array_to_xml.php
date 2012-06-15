@@ -1,8 +1,8 @@
 <?php
 /**
  * convert array to xml
- * @link https://github.com/P54l0m5h1k/Array_to_XML
- * @link twin brother:https://github.com/P54l0m5h1k/XML-to-array
+ * @link https://github.com/P54l0m5h1k/array_to_xml
+ * @link https://github.com/P54l0m5h1k/xml_to_array - twin brother
  */
 class array_to_xml
 {
