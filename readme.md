@@ -1,4 +1,4 @@
-# Array_to_XML
+# Array to XML PHP
 ==============
 
 ## Convert PHP Array to XML
